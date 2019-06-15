@@ -1,0 +1,1 @@
+## Primeiro app console application .Net Core 2.2
